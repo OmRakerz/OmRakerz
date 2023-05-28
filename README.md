@@ -24,5 +24,4 @@
 ### :bar_chart: 𝐌𝐲 𝐬𝐭𝐚𝐭𝐬 :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmRakerz&theme=vision-friendly-dark) 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmRakerz&theme=dark&background=000000)
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OmRakerz&show_icons=true&theme=highcontrast)
